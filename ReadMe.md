@@ -1,0 +1,1 @@
+![GoldenFeatureOfTypeScript.drawio.png](GoldenFeatureOfTypeScript.drawio.png)
